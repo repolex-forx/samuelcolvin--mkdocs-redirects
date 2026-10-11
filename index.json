@@ -1,0 +1,11 @@
+{
+  "org": "samuelcolvin",
+  "repo": "mkdocs-redirects",
+  "versions": [
+    {
+      "commit": "32ccfd0ce36bcd25df66a5c58a3e1a0916f2a767",
+      "tag": "",
+      "parsed_at": "2026-10-11T19:11:02.581203+00:00"
+    }
+  ]
+}
