@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/samuelcolvin/mkdocs-redirects",
+  "@type": "gh:Repository",
+  "gh:name": "mkdocs-redirects",
+  "gh:owner": "samuelcolvin",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/samuelcolvin/mkdocs-redirects/commit/32ccfd0ce36bcd25df66a5c58a3e1a0916f2a767",
+      "git:hexsha": "32ccfd0ce36bcd25df66a5c58a3e1a0916f2a767",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
